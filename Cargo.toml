@@ -1,0 +1,6 @@
+[workspace]
+
+members = [
+    "wasm_module",
+    "wasm_host"
+]
